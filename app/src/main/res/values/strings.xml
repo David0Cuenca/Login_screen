@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login_Screen</string>
+    <string name="footer_text">Don\'t you have an account</string>
+</resources>
